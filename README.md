@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simp1ord
-- 👀 I’m interested in gaming, beginner software programming/development? (I think lol)
-- 🌱 I’m currently learning beginner HTML, starting Odin Project
-- 💞️ I’m looking to collaborate on nothin yet
+- 👀 I’m interested in gaming, beginner software programming/development
+- 🌱 I’m currently learning beginner Javascript
+- 💞️ I’m looking to collaborate on open source sooner of later
 - 📫 How to reach me jpkbobblehead@gmail.com
 
 <!---
